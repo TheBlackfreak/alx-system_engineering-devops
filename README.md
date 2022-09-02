@@ -1,1 +1,1 @@
-alx-system_engineering-devops_for_0x00-shell_basics
+This directory contains scripts to varius shell permissions
