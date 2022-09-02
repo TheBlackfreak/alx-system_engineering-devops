@@ -1,1 +1,1 @@
-A script that sets the mode of the file hello to: -rwxr-x-wx (753)
+A Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users while regular files remaining unchanged
