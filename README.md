@@ -1,1 +1,1 @@
-This directory contains scripts to varius shell permissions
+This directory contains scripts for shell
