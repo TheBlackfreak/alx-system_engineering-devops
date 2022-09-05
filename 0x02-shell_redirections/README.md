@@ -1,1 +1,1 @@
-A script that displays the third line of a file
+A script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
