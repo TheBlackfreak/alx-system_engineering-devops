@@ -1,1 +1,1 @@
-A script that creates a new file with a text and ends with a new line
+A script that duplicates the last line of a file
